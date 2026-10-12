@@ -1,0 +1,5 @@
+.direnv/
+.vs/
+obj/
+bin/
+*.user
